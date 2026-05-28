@@ -26,5 +26,5 @@ This script authenticates with the Reddit API using OAuth and fetches the 5 late
 1. **Clone this repo or download files:**
 
 ```bash
-git clone https://your-repo-url
+git clone https://github.com/vidyamathad/api_testing_reddit.git
 cd Reddit_Project
